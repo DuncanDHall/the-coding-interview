@@ -1,5 +1,5 @@
 import unittest
-from sol_rabbit_question import *
+from my_sol_rabbit_question import *
 
 
 class TestRabbitQuestionSolution(unittest.TestCase):
