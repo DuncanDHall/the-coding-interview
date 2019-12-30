@@ -9,3 +9,6 @@ node_modules
 *.class
 launch.json
 .vscode
+
+__pycache__
+
