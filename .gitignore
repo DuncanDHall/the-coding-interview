@@ -7,7 +7,7 @@ venv
 node_modules
 *.o
 *.class
-#.swp
+*.swp
 launch.json
 .vscode
 
